@@ -131,6 +131,10 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
+# Large Files
+*.csv
+*.db
+
 # SageMath parsed files
 *.sage.py
 
